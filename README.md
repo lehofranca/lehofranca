@@ -8,7 +8,7 @@ Sou QA Automation Engineer e Software Developer com 6 anos de experiência em ga
 - ⚛️ React (componentização, hooks, CSS)
 - 🤖 Automação de testes com Selenium e Playwright
 - 🔄 Integração Contínua (CI/CD)
-- 🛠️ Ferramentas: Git, Docker, Jenkins, Postman
+- 🛠️ Ferramentas: Git, Docker, Jenkins, Postman, JMeter
 
 ## Projetos em destaque
 - [Pizzaria FastAPI & React](https://github.com/lehofranca/lefrance-pizzaria) - Sistema completo para gerenciamento e venda de pizzas, com front-end em React e back-end FastAPI.
